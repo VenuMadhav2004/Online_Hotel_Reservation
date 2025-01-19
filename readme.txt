@@ -29,5 +29,3 @@ Admin
 user: admin
 pass: admin
 
-****** https://www.campcodes.com/ ******
-Subcribe to our Youtube Channel **** SerBermz ****
